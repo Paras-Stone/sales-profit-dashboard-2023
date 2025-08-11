@@ -46,8 +46,9 @@ The dashboard is interactive, allowing filtering by year, category, sub-category
 ---
 
 ## 🔗 Live Dashboard
-[View on Tableau Public]([your-tableau-link-here](https://public.tableau.com/app/profile/paras.saini7560/viz/Book1_17491906075340/SALESDASHBOARD))
+[View on Tableau Public](https://public.tableau.com/app/profile/paras.saini7560/viz/Book1_17491906075340/SALESDASHBOARD)
 
 ---
 
-## 📂 Repository Structure
+## Creator 
+Paras Saini
